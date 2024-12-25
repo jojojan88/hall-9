@@ -1,6 +1,12 @@
 # hall-9 Overview
 HomeAssistant Local LLM Voice Interface
 
+## Todo
+- New Case
+- Updates from Repo
+- Docker for external Whisper
+
+
 ## Parts 
 - ESP32-S3 Compatible with local Wake Word Detection
 - MAX98357 Amplifier for Speaker
